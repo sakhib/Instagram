@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">My Gallery</string>
+    <string name="create_account">Ещё нет аккаунта? <b>Регистрация.</b></string>
+    <string name="please_enter_password">Пожалуйста, укажите пароль</string>
+    <string name="discover_people">Поиск людей</string>
+    <string name="edit_profile">Редактировать профиль</string>
+    <string name="change_photo">Сменить фото</string>
+    <string name="name">Имя</string>
+    <string name="username">Логин</string>
+    <string name="website">Вебсайт</string>
+    <string name="bio">Интересы</string>
+    <string name="private_information">Персональная информация</string>
+    <string name="email">Email</string>
+    <string name="phone">Телефон</string>
+    <string name="password">Пароль</string>
+    <string name="log_in">Log In</string>
+    <string name="posts">Публика.</string>
+    <string name="followers">Подписч.</string>
+    <string name="following">Подписки</string>
+    <string name="settings">Настройки</string>
+    <string name="sign_out">Выйти из приложения</string>
+    <string name="share_to">Новая публикация</string>
+    <string name="share">Поделиться</string>
+    <string name="enter_a_caption_here">Добавьте подпись…</string>
+    <string name="follow">Подписаться</string>
+    <string name="next">Дальше</string>
+    <string name="enter_full_name_and_password">Укажите полное имя и пароль</string>
+    <string name="full_name">Полное имя</string>
+    <string name="register">Регистрация</string>
+    <string name="you_should_enter_your_password">You should enter your password</string>
+    <string name="profile_saved">Профиль сохранён</string>
+    <string name="please_enter_name">Пожалуйста, заполните имя</string>
+    <string name="please_enter_username">Пожалуйста, заполните логин</string>
+    <string name="please_enter_email">Пожалуйста, заполните email</string>
+    <string name="username_is_clicked">Username is clicked</string>
+    <string name="please_enter_email_and_password">Пожалуйста, укажите email и пароль</string>
+    <string name="this_email_already_exists">Этот email уже занят</string>
+    <string name="please_enter_fullname_and_password">Пожалуйста, укажите полное имя и пароль</string>
+    <string name="something_wrong_happened">Что-то пошло не так. Повторите запрос позднее</string>
+    <string name="comments">Комментарии</string>
+    <string name="post">Опубликовать</string>
+    <string name="add_a_comment">Добавить комментарий…</string>
+    <string name="notifications">Подписки</string>
+    <string name="liked_your_post">Понравилась ваша публикация</string>
+    <string name="started_following_you">Подписался на вас</string>
+    <string name="commented">Упомянул о вас в комментарии: %s</string>
+    <string name="search">Поиск</string>
+
+    <plurals name="likes_count">
+        <item quantity="one">%d like</item>
+        <item quantity="other">%d likes</item>
+    </plurals>
+</resources>
